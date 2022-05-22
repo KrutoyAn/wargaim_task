@@ -15,5 +15,3 @@ Julia Tiny;2
 Tomas Novak;2
 
 Tina Bell;5
-
-James Hall;1

@@ -1,0 +1,5 @@
+Internship task - A
+Recently we organized running competition for our developers. Everyone saw that James won.
+But nobody noticed who finished the run on second place.
+Fortunately, we have logs with names and positions. The problem is that there were thousands of runners and we need you
+to write a program that can find a runner-up for us.

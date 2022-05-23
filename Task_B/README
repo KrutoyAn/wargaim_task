@@ -1,0 +1,11 @@
+Internship task - B
+Let’s play a game with numbers. You are given sequence of numbers 1...n and a number x = 3.
+Every round you will remove from the sequence numbers that fulfils following two conditions:
+
+1. number is divisible by x
+2. number contains digit sum of x
+
+To get digit sum of number x you keep summing single digits until you get single digit number.
+For example: digit_sum(56) => 5+6 = 11 => 1+1 = 2
+Initial value of x = 3. Amount of removed numbers will be your x for next round.
+Game ends when you remove 0 numbers (x==0).
